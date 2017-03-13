@@ -7,6 +7,7 @@ PHASE DE TESTS:
 1 - première action définition "README.txt"
 2 - Ajout code aux readmes et definition "modele.html"
 3 - Mise à jour readme.txt suite à la definition du fichier "anotherFile.txt"
+4 - Finalisation fichier modele.html
 
 Auteur:
 Mouhamed Abdoulaye NIANE 
