@@ -1,2 +1,10 @@
 Ceci est un autre fichier texte crée pourles besoins de l'activité.
 
+Présentation projet:
+Indexation et recherche d'images médicales par le contenu en utilisant JPEG-2000
+
+Réalisations:
+Développement Java/PostgreSQL :
+Application Java proposant les images médicales les plus visuellement similaires à une image requête par le contenu sémantique afin d’améliorer le diagnostic.
+C’est un prototype d’outil de recherche d’images par le contenu et d’aide au diagnostic.
+

@@ -8,6 +8,7 @@ PHASE DE TESTS:
 2 - Ajout code aux readmes et definition "modele.html"
 3 - Mise à jour readme.txt suite à la definition du fichier "anotherFile.txt"
 4 - Finalisation fichier modele.html
+5 - Derniere modification README : ajout another sur un projet personnel
 
 Auteur:
 Mouhamed Abdoulaye NIANE 
