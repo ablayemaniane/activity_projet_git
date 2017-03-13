@@ -6,6 +6,7 @@ des notions du cours sur Git et Github.
 PHASE DE TESTS:
 1 - première action définition "README.txt"
 2 - Ajout code aux readmes et definition "modele.html"
+3 - Mise à jour readme.txt suite à la definition du fichier "anotherFile.txt"
 
 Auteur:
 Mouhamed Abdoulaye NIANE 
